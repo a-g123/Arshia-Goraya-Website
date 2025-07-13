@@ -130,7 +130,7 @@ html {
 
 /* HOME PAGE START */
 #home {
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .home__container {
