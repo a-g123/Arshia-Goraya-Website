@@ -129,6 +129,10 @@ html {
 /* NAVIGATION BAR END */
 
 /* HOME PAGE START */
+#home {
+    height: 100vh;
+}
+
 .home__container {
     display: flex;
     align-items: center;
@@ -137,6 +141,7 @@ html {
     gap: 40px;
     flex-wrap: wrap;
     background-color: #e6f0f4;
+    
 }
 
 .home__content {
